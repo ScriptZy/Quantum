@@ -4,7 +4,7 @@ ScriptLoader.Scripts = {
     [2753915549] = { Url = "https://raw.githubusercontent.com/Quantum/QuantumOnyx/main/BloxFruit.lua", Title = "BloxFruit" },
     [4442272183] = { Url = "https://raw.githubusercontent.com/Quantum/QuantumOnyx/main/BloxFruit.lua", Title = "BloxFruit" },
     [7449423635] = { Url = "https://raw.githubusercontent.com/Quantum/QuantumOnyx/main/BloxFruit.lua", Title = "BloxFruit" },
-    [126884695634066] = { Url = "https://raw.githubusercontent.com/flazhy/QuantumOnyx/main/GAG.lua", Title = "Grow A Garden" },
+    [126884695634066] = { Url = "https://raw.githubusercontent.com/Quantum/QuantumOnyx/main/GAG.lua", Title = "Grow A Garden" },
 }
 
 function ScriptLoader:GetScriptEntry(PlaceId: number)
